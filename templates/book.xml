@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><FictionBook xmlns:l="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+    <title-info>
+        <book-title>BookTitle</book-title>
+        <annotation>Annotation</annotation>
+        <date>Date</date>
+    </title-info>
+</description>
+<body>
+    <section>
+        <section>
+            <title><p>BookTitle</p></title>
+            Annotation
+        </section>
+        Chapters
+    </section>
+</body>
+</FictionBook>
